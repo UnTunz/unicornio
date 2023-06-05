@@ -1,0 +1,70 @@
+/* Estilos para el cuerpo de la página */
+body {
+    background-color: #F9F6F7;
+    font-family: Arial, sans-serif;
+    color: #555;
+}
+
+/* Estilos para el encabezado */
+header {
+    background-color: #A8E6CF;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1 {
+    font-size: 40px;
+    margin: 0;
+}
+
+nav a {
+    color: #333;
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+/* Estilos para la sección de servicios */
+#servicios {
+    margin: 50px 0;
+}
+
+h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+h3 {
+    font-size: 24px;
+    margin-top: 0;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-top: 10px;
+}
+
+/* Estilos para el pie de página */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}

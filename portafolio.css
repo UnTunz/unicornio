@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Compañía de Unicornios - Acerca de</title>
+	<style>
+		header {
+			background-color: #F9E9F9;
+			padding: 20px;
+			text-align: center;
+			border-bottom: 5px solid #FFC0CB;
+			box-shadow: 0px 5px 5px rgba(0,0,0,0.2);
+		}
+		
+		h1 {
+			font-family: 'Brush Script MT', cursive;
+			font-size: 60px;
+			margin: 0;
+			color: #FF69B4;
+			text-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+		}
+		
+		main {
+			padding: 20px;
+		}
+		
+		section {
+			margin-bottom: 30px;
+			padding: 20px;
+			background-color: #42b832;
+			box-shadow: 0px 5px 5px rgba(0,0,0,0.2);
+			border-radius: 5px;
+		}
+		
+		h2 {
+			font-family: 'Arial', sans-serif;
+			font-size: 32px;
+			color: #FF69B4;
+			text-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+			margin-top: 0;
+			margin-bottom: 10px;
+		}
+		
+		p {
+			font-family: 'Arial', sans-serif;
+			font-size: 18px;
+			color: #555;
+			line-height: 1.5;
+		}
+		
+		ul {
+			list-style: none;
+			padding: 0;
+			margin: 0;
+		}
+		
+		li {
+			font-family: 'Arial', sans-serif;
+			font-size: 18px;
+			color: #8d4141;
+			line-height: 1.5;
+			padding-left: 20px;
+			background-image: url('https://img.freepik.com/free-photo/abstract-pastel-blue-paint-brushstroke-textured-background_53876-108403.jpg?w=2000');
+			background-repeat: no-repeat;
+			background-position: 0px 5px;
+		}
+		
+		#contacto {
+			background-color: #FFC0CB;
+			color: #FFF;
+		}
+		
+		#contacto ul li {
+			color: #FFF;
+			background-image: url('telefono.png');
+			background-repeat: no-repeat;
+			background-position: 0px 5px;
+		}
+		
+		#contacto ul li:first-child {
+			background-image: url('email.png');
+		}
+		
+		#contacto ul li:last-child {
+			background-image: url('direccion.png');
+		}
+		
+		footer {
+			background-color: #F9E9F9;
+			padding: 10px;
+			text-align: center;
+			border-top: 5px solid #FFC0CB;
+			box-shadow: 0px -5px 5px rgba(0,0,0,0.2);
+		}
+		
+		footer p {
+			font-family: 'Arial', sans-serif;
+			font-size: 14px;
+			color: #555;
+			margin: 0;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>Compañía de Unicornios</h1>
+	</header>
+	
+	
